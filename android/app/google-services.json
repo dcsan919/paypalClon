@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144647808969",
+    "project_id": "fir-f02b0",
+    "storage_bucket": "fir-f02b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144647808969:android:f023bdfa1b4f32d7786a18",
+        "android_client_info": {
+          "package_name": "com.example.paypal1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9Px_EZ1O4HtcTH0wSt_TM4HAazvMaQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
